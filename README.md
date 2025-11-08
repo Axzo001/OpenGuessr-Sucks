@@ -1,5 +1,6 @@
 # OpenGuesr-Sucks
-tempermonkey userscript to get location from openguessr game
+tampermonkey userscript to get location from openguessr game
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N01O410Y)
 ---
 ### 💀 What it does
 - Fixes OpenGuessr’s weird UI  
